@@ -1,0 +1,24 @@
+.service{
+    padding-bottom: 30px;
+}
+.content{
+    background-color: cadetblue;
+    min-height: 100px;
+    margin-bottom: 10px;
+}
+.h1{
+    text-align: center;
+    font-size: 36px;
+}
+.form-label{
+    font-weight: 700;
+}
+.form-css{
+    border: 1px solid black;
+}
+.border-x{
+    background-color:#51de51;
+}
+.m-p{
+    margin: 50px 0;
+}
